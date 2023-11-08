@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivu00rm
-- 👀 I’m interested in doing data analytics
+- 👀 I’m interested in creating a DA firm
 - 🌱 I’m currently learning ...data engineering
 - 💞️ I’m looking to collaborate on ...projects related to DA
 - 📫 How to reach me ...lets see
